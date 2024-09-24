@@ -20,7 +20,7 @@ This is a simple two-player Ping Pong game developed using Python's `turtle` gra
   - Move Up: `Up` arrow
   - Move Down: `Down` arrow
 
-## Future Enhancements 🔮
+## Future Enhancements
 
 - Add sound effects for paddle and ball collisions.
 - Implement a main menu with difficulty settings.
